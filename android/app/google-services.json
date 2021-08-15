@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305949498955",
+    "project_id": "flash-chat-dc355",
+    "storage_bucket": "flash-chat-dc355.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305949498955:android:35f7c930596b2a07e7b7ce",
+        "android_client_info": {
+          "package_name": "co.maurya.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305949498955-8ollcecli2v3ij7um5h0c3pf07958ikf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt3VCCUF7c_93ZLYBMc2RaO3UzeLdrHSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305949498955-8ollcecli2v3ij7um5h0c3pf07958ikf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
